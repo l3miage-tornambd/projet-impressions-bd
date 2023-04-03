@@ -101,5 +101,5 @@ public class CreateBasingObjectForTest {
         image.setInfo("smurl");
         return image;
     }
-
+//
 }
